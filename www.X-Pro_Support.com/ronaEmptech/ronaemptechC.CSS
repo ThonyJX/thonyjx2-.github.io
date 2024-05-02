@@ -1,0 +1,24 @@
+body{
+    font-family:verdana;
+    background:#001e4a;
+    color:pink;
+  }
+  ,welcome{
+    color:#56f921;
+    font-size:27px;
+  }
+  ,top span{
+    
+    color pink
+  }
+  ,info{
+    border:2px solid yellow;
+    padding: 20px;
+  }
+  b{color:blue;}
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
